@@ -1,0 +1,7 @@
+version: STSv1
+mode: testing
+mx: mailstream-east.mxrecord.io
+mx: mailstream-west.mxrecord.io
+mx: mailstream-central.mxrecord.mx
+mx: *.mail.protection.outlook.com
+max_age: 604800
